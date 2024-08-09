@@ -23,9 +23,10 @@ button {
   gap: 14px;
 }
 
-header {
+header form {
   display: flex;
   align-items: stretch;
+  gap: 30px;
 }
 
 header,
